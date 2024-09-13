@@ -1,0 +1,14 @@
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\bin\Debug\net8.0\WarehouseApp.exe
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\bin\Debug\net8.0\WarehouseApp.deps.json
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\bin\Debug\net8.0\WarehouseApp.runtimeconfig.json
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\bin\Debug\net8.0\WarehouseApp.dll
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\bin\Debug\net8.0\WarehouseApp.pdb
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfo.cs
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\WarehouseApp.dll
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\refint\WarehouseApp.dll
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\WarehouseApp.pdb
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\WarehouseApp.genruntimeconfig.cache
+C:\Users\ssdf0\Desktop\Пактика ЛЭТИ\WarehouseApp\WarehouseApp\obj\Debug\net8.0\ref\WarehouseApp.dll
